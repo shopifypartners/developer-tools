@@ -7,8 +7,6 @@
 - Unzip the app and move it to your `Applications` folder
 - Open it!
 
-_E-mail developer-tools@shopify.com if you would like to run the app on other operating systems._
-
 ## Usage
 ![Data generator gif](https://screenshot.click/ezgif-4-2255f1d2e5.gif)
 
@@ -43,4 +41,4 @@ Connect your Shopify store to Developer Tools to take advantage of the Admin API
 - Use the pop-out builder to save layouts
 
 ## Feedback / Issues
-E-mail developer-tools@shopify.com for any issues or feature requests
+[Contact us](https://partners.shopify.com/current/support/form) if you have any issues using Developer Tools or want to share your ideas for feature requests.
