@@ -1,3 +1,7 @@
+# This is no longer maintained
+
+Instead, you should be using the [Shopify App CLI]( https://github.com/Shopify/shopify-app-cli)
+
 ![Developer Tools search box](https://screenshot.click/developer-tools-search-hero-cropped.gif)
 
 **Shopify Developer Tools** is a macOS app that connects to your Shopify store(s) and allows you to make authenticated calls to the [Admin API](https://help.shopify.com/api/reference), generate dummy data, and view and customize [Polaris](https://polaris.shopify.com/) components.
